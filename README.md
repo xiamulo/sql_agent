@@ -265,10 +265,7 @@ class CustomRole(Role):
 
 本项目基于 MIT 许可证开源 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 🙏 致谢
 
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 提供了强大的多智能体协作框架
-- 感谢所有为这个项目做出贡献的开发者
 
 ---
 
