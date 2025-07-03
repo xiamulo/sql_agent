@@ -1,0 +1,10 @@
+#OPENAI_BASE_URL: "https://your-openai-api-base-url/v1/"
+OPENAI_BASE_URL: ""
+#OPENAI_PROXY: "http://127.0.0.1:8118"
+OPENAI_API_KEY: ""  # set the value to sk-xxx if you host the openai interface for open llm model
+#OPENAI_API_KEY: ""
+OPENAI_API_MODEL: "gpt-4o"
+MAX_TOKENS: 128000
+RPM: 10
+TIMEOUT: 10 # Timeout for llm invocation
+TEMPERATURE: 0.3
